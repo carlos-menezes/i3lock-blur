@@ -1,6 +1,6 @@
 # i3lock-blur
 
-Sets the background of i3lock to a blurred version of the current workspace (on one monitor).
+Sets the background of i3lock to a blurred image of the current workspace.
 
 ## Dependencies:
 - `scrot`: https://man.cx/scrot
