@@ -4,7 +4,8 @@ Sets the background of i3lock to a blurred image of the current workspace.
 
 ## Dependencies:
 - `scrot`: https://man.cx/scrot
-- `convert`: https://linux.die.net/man/1/imagemagick 
+- `convert`: https://linux.die.net/man/1/imagemagick
+- `i3lock`: https://github.com/i3/i3lock
 
 ## Installation
 1. Copy `lock` to your machine;
